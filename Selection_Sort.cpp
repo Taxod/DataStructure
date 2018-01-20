@@ -1,3 +1,7 @@
+
+/*Selection Sort*/
+
+//From those unsorted integers, find the smallest and place it next in the sorted list.
 #include<iostream>
 
 using namespace std;
