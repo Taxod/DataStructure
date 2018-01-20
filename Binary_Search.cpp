@@ -32,7 +32,7 @@ int binsearch(int list[],int target,int left,int right){
 				left = middle +1;
 				break;
 			case 0 :
-				return middle;
+				return middle+1;
 				break;
 			case 1 :
 				right = middle-1;

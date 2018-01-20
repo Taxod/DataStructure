@@ -50,14 +50,3 @@ void swap(int &a,int &b){
 }
 
 
-//Example 1: Selection Sort (Cont.)
-//void sort(int list[ ], int n)
-//{
-//for (i=0; i < n-1; i++) {
-//min = i;
-//for (j = i+1; j < n; j++) {
-//if (list[j] < list[min])
-//min = j; }
-//SWAP(list[i], list[min], temp);
-//}
-//}
